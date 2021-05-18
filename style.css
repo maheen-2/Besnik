@@ -170,3 +170,42 @@
 .explain-3 {
   padding: 20px;
 }
+
+.download-img {
+  display: flex;
+  flex: 2;
+  justify-content: space-around;
+  margin: 50px;
+  font-family: "Roboto", sans-serif;
+}
+
+.appstore button {
+  width: 300px;
+  margin-top: 40px;
+  padding: 20px;
+  border-radius: 7px;
+  background-color: white;
+  color: black;
+  font-family: "Roboto", sans-serif;
+  transition: all 0.5s;
+}
+.appstore button:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+.playstore button {
+  width: 300px;
+  margin-top: 40px;
+  padding: 20px;
+  border-radius: 7px;
+  background-color: white;
+  color: black;
+  font-family: "Roboto", sans-serif;
+  transition: all 0.5s;
+}
+.playstore button:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
