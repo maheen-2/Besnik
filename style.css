@@ -125,3 +125,48 @@
   justify-content: center;
   font-family: "Roboto", sans-serif;
 }
+
+.image {
+  display: flex;
+  flex: 2;
+  align-items: flex-end;
+}
+.image-1 {
+  padding: 20px;
+  display: flex;
+  flex: 2;
+  margin-left: 130px;
+}
+.image-2 {
+  padding: 20px;
+  display: flex;
+  flex: 2;
+}
+.image-3 {
+  padding: 20px;
+  display: flex;
+  flex: 2;
+}
+
+.working {
+  display: flex;
+  justify-content: space-around;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+.explain {
+  display: flex;
+  justify-content: space-around;
+  font-family: "Roboto", sans-serif;
+  padding: 20px;
+  margin: 10px;
+}
+.explain-1 {
+  padding: 20px;
+}
+.explain-2 {
+  padding: 20px;
+}
+.explain-3 {
+  padding: 20px;
+}
