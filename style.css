@@ -209,3 +209,7 @@
   background-color: black;
   color: white;
 }
+.banking {
+  display: flex;
+  justify-content: space-around;
+}
